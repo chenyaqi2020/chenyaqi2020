@@ -1,16 +1,11 @@
-#gity generated #
-# =============== #
 Temp/
 Obj/
 UnityGenerated/
 Library/
-
+/UnityCacheServer/Library/
 .idea/
 Assets/Plugins/Editor/JetBrains*
 
-# ===================================== #
-# Visual Studio / MonoDevelop generated #
-# ===================================== #
 ExportedObj/
 *.svd
 *.userprefs
@@ -23,9 +18,6 @@ ExportedObj/
 *.booproj
 *.csproj.meta
 
-# ============ #
-# OS generated #
-# ============ #
 .DS_Store
 .DS_Store?
 ._*
